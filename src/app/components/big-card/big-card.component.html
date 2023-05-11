@@ -1,7 +1,7 @@
 <div class="container-big-card">
   <div class="big-card-picture">
     <img
-      src="https://blog.geekhunter.com.br/wp-content/uploads/2019/07/angular8-min-1.jpg"
+      src="{{photoCover}}"
       alt=""
       height="200px"
       srcset=""
@@ -10,18 +10,13 @@
 
   <div class="big-card-title">
     <h1>
-      <a href="#">Novidades no Angular!</a>
+      <a href="#">{{ cardTitle }}</a>
     </h1>
   </div>
 
   <div class="big-card-description">
     <p>
-      <a href="#"
-        >Com as novas atualizações do angular, você pode fazer coisas
-        incriveís!!
-        <br />
-        Venha descobrir!!!</a
-      >
+      <a href="#">{{ cardDescription }} </a>
     </p>
   </div>
 </div>

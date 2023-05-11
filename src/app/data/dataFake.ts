@@ -1,9 +1,27 @@
 export const dataFake = [
   {
-    "id":1,
-    "photo":"aa",
-    "title":"novo filme",
-    "description": "ola"
+    "id":"1",
+    "title":"Angular vs React: A Batalha Continua no Mundo do Desenvolvimento Web",
+    "description": `Nos últimos anos, Angular e React têm sido as duas principais opções para o desenvolvimento de aplicações web. Ambos têm vantagens e desvantagens, e a escolha entre eles muitas vezes se resume a preferência pessoal e às necessidades específicas do projeto. No entanto, a batalha entre esses dois frameworks parece estar longe de terminar. Recentemente, uma pesquisa realizada com desenvolvedores de todo o mundo mostrou que há uma divisão quase igualitária entre aqueles que preferem Angular e aqueles que preferem React. Os defensores do Angular argumentam que sua estrutura é mais robusta e escalável, com recursos poderosos para gerenciamento de estado e desenvolvimento de aplicativos complexos. Enquanto isso, os defensores do React acreditam que sua abordagem baseada em componentes é mais flexível e fácil de entender, permitindo que os desenvolvedores criem aplicativos com mais rapidez e eficiência.Alguns desenvolvedores também apontam para a comunidade de cada framework como um fator decisivo. O Angular tem uma comunidade mais estabelecida e madura, com muitos recursos e ferramentas disponíveis para os desenvolvedores. Por outro lado, o React tem uma comunidade mais dinâmica e inovadora, com muitas bibliotecas e ferramentas sendo lançadas regularmente.No entanto, muitos desenvolvedores acreditam que a escolha entre Angular e React não precisa ser uma decisão definitiva. É possível utilizar ambas as estruturas em um único projeto, aproveitando as vantagens de cada uma para criar uma solução única e personalizada.A verdade é que tanto Angular quanto React têm seu lugar no mundo do desenvolvimento web. A escolha entre eles dependerá das necessidades do projeto, das habilidades dos desenvolvedores e das preferências pessoais. Mas uma coisa é certa: a batalha entre esses dois frameworks continuará por muito tempo.`,
+    "photoCover": "https://www.freecodecamp.org/portuguese/news/content/images/2022/04/react-vs-angular.png"
+  },
+  {
+    "id":"2",
+    "title":"Planeta dos macacos bate recorde de bilheteria!",
+    "description": "A Guerra, o mais recente filme da franquia, acaba de bater um recorde de bilheteria em sua estreia nos cinemas. Segundo os dados divulgados pela distribuidora, o filme arrecadou mais de US$ 150 milhões em todo o mundo durante o primeiro fim de semana de exibição. Com esse resultado, Planeta dos Macacos: A Guerra superou o recorde anterior estabelecido pelo filme anterior da série, Planeta dos Macacos: O Confronto, que arrecadou US$ 100 milhões em sua estreia. O sucesso de Planeta dos Macacos: A Guerra pode ser atribuído à qualidade da produção, que contou com um elenco de peso e efeitos especiais de última geração, além de uma história envolvente que cativou o público em todo o mundo. A franquia, que se iniciou em 1968 com o lançamento do clássico Planeta dos Macacos, tem conquistado uma legião de fãs ao longo dos anos e se tornou uma das mais icônicas da história do cinema. A série já arrecadou bilhões de dólares em todo o mundo e continua a encantar as novas gerações de cinéfilos.",
+    "photoCover": "https://sobresagas.com.br/wp-content/uploads/2022/04/cronologia-da-franquia-planeta-dos-macacos.jpg"
+  },
+  {
+    "id":"3",
+    "title":"Terceira temporada de Demon Slayer é lançada!",
+    "description": "A tão aguardada terceira temporada do anime 'Demon Slayer: Kimetsu no Yaiba' foi finalmente lançada nesta segunda-feira, deixando os fãs empolgados com o retorno das aventuras de Tanjiro Kamado e seus amigos. A nova temporada, intitulada 'Demon Slayer: Mugen Train Arc', dará continuidade aos eventos do filme 'Demon Slayer: Mugen Train', que foi um grande sucesso de bilheteria em 2021. Os fãs podem esperar muita ação, drama e emoção, à medida que Tanjiro e seus companheiros enfrentam novos inimigos e desafios. Além disso, a terceira temporada também promete explorar ainda mais o passado de alguns dos personagens, incluindo a história de fundo do misterioso Hashira Giyu Tomioka. Os fãs já estão compartilhando suas reações nas redes sociais, com muitos comentando sobre o visual impressionante do anime e o quão animados estão para ver o que acontecerá a seguir na história de Tanjiro. A terceira temporada de 'Demon Slayer: Kimetsu no Yaiba' está disponível para streaming em diversas plataformas, incluindo a popular plataforma de anime Crunchyroll.",
+    "photoCover": "https://i0.wp.com/anmtv.com.br/wp-content/uploads/2023/03/Demon-Slayer.jpg?resize=800%2C400&ssl=1"
+  },
+  {
+    "id":"4",
+    "title":"Novo teaser de StarWars deixa fãs ansiosos!",
+    "description": "Os fãs de Star Wars estão em polvorosa após o lançamento de um novo teaser para o próximo filme da saga, intitulado 'Star Wars: A Nova Ordem'. O teaser de um minuto e meio foi lançado durante a convenção anual de Star Wars e deixou os fãs ansiosos por mais informações sobre a trama e os personagens. O teaser começa com uma cena épica de uma batalha espacial, com naves X-Wing e TIE Fighters lutando em um cenário estelar. Em seguida, vemos cenas rápidas de vários personagens familiares, incluindo Rey, Finn, Poe Dameron e Chewbacca, cada um parecendo estar enfrentando seus próprios desafios. Em uma cena particularmente emocionante, vemos o lendário Jedi Luke Skywalker, interpretado pelo ator Mark Hamill, que parece estar tendo uma conversa séria com a personagem Rey. Embora não saibamos exatamente o que eles estão discutindo, a cena sugere que Luke pode ter um papel importante na história. Os fãs também estão intrigados com um novo personagem apresentado no teaser, uma figura encapuzada que parece ser um Sith. A cena mostra o personagem em um ambiente escuro e sinistro, com os olhos brilhantes em vermelho, sugerindo que este novo vilão pode ser uma grande ameaça para os nossos heróis. O teaser termina com o título 'Star Wars: A Nova Ordem' aparecendo na tela, seguido pela data de lançamento do filme nos cinemas. Os fãs estão animados para ver o que o futuro reserva para seus personagens favoritos e especulam sobre o que pode estar por vir na trama épica de Star Wars. 'Star Wars: A Nova Ordem' está previsto para chegar aos cinemas em dezembro deste ano, e os fãs mal podem esperar para ver o que a Lucasfilm tem reservado para eles.",
+    "photoCover": "https://pbs.twimg.com/media/FtDQs8qWcAIGgpA.jpg"
   }
- 
+
 ]
